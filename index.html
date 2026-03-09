@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pixlora 4K Wallpapers</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="navbar">
+  <div class="nav-left">
+    <button class="menu-btn" onclick="toggleSidebar()">☰</button>
+    <h1>Pixlora 4K</h1>
+  </div>
+</header>
+
+<div class="layout">
+
+<aside class="sidebar" id="sidebar">
+  <h3>Categories</h3>
+  <ul>
+    <li onclick="filterCategory('all')">All Wallpapers</li>
+    <li onclick="filterCategory('anime')">Anime</li>
+    <li onclick="filterCategory('krishna')">Krishna</li>
+    <li onclick="filterCategory('nature')">Nature</li>
+<!-- 
+    <li onclick="filterCategory('amoled')">AMOLED</li>
+    <li onclick="filterCategory('minimal')">Minimal</li>
+    <li onclick="filterCategory('cyberpunk')">Cyberpunk</li> -->
+  </ul>
+</aside>
+
+<main class="content">
+  <div class="gallery" id="gallery"></div>
+</main>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
