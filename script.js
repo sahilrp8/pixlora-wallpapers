@@ -5,6 +5,17 @@ const wallpapers = [
   { image: "wallpapers/1.jpg", title: "Radha-Krishna", category: "krishna" },
   { image: "wallpapers/2.jpg", title: "Radha-Krishna", category: "krishna" },
   { image: "wallpapers/3.jpg", title: "Radha-Krishna", category: "krishna" }
+  { image: "wallpapers/4.jpg", title: "Radha-Krishna", category: "krishna" },
+  { image: "wallpapers/5.jpg", title: "Radha-Krishna", category: "krishna" },
+  { image: "wallpapers/6.jpg", title: "Radha-Krishna", category: "krishna" },
+  { image: "wallpapers/7.jpg", title: "Radha-Krishna", category: "krishna" },
+  { image: "wallpapers/8.jpg", title: "Radha-Krishna", category: "krishna" },
+  { image: "wallpapers/9.jpg", title: "Radha-Krishna", category: "krishna" },
+  { image: "wallpapers/10.jpg", title: "Radha-Krishna", category: "krishna" },
+  { image: "wallpapers/11.jpg", title: "Radha-Krishna", category: "krishna" },
+  { image: "wallpapers/12.jpg", title: "Radha-Krishna", category: "krishna" },
+  { image: "wallpapers/13.jpg", title: "Radha-Krishna", category: "krishna" },
+  { image: "wallpapers/14.jpg", title: "Radha-Krishna", category: "krishna" }
   // { image: "wallpapers/wall2.jpg", title: "Cyber City", category: "cyberpunk" },
   // { image: "wallpapers/wall4.jpg", title: "Dark AMOLED", category: "amoled" },
   // { image: "wallpapers/wall5.jpg", title: "Minimal Lines", category: "minimal" }
